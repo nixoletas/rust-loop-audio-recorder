@@ -1,0 +1,32 @@
+{
+  "tracks": [
+    {
+      "name": "Track 1",
+      "color": [
+        100,
+        200,
+        100,
+        255
+      ],
+      "is_muted": false,
+      "is_solo": false,
+      "is_armed": true,
+      "audio": []
+    },
+    {
+      "name": "Track 2",
+      "color": [
+        100,
+        140,
+        200,
+        255
+      ],
+      "is_muted": false,
+      "is_solo": false,
+      "is_armed": false,
+      "audio": []
+    }
+  ],
+  "bpm": 110.0,
+  "bars": 8
+}

@@ -1,0 +1,12 @@
+[package]
+name = "rust-audio-recorder"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = { version = "0.26.0", features = ["default_fonts"] }  # egui framework
+cpal = "0.15.2"    # Cross-platform audio I/O
+ringbuf = "0.3.3"  # Ring buffer for audio data
+hound = "3.5.1"    # WAV file handling
+anyhow = "1.0.75"  # Error handling 
+egui_plot = "0.26.2"  # For waveform plotting 

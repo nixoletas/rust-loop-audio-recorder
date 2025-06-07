@@ -1,5 +1,8 @@
 # Rust Audio Recorder
 
+![image](https://github.com/user-attachments/assets/ff277848-f0a5-420b-9322-569c2f9d5b6f)
+
+
 A simple audio recorder application built with Rust, featuring a graphical user interface.
 
 ## Features
